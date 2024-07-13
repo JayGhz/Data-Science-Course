@@ -1,0 +1,21 @@
+# Virtualenv
+env/
+venv/
+
+.vscode/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Pip cache
+pip-wheel-metadata/
+
+dist/
+build/
+*.egg-info/
+
+.env
